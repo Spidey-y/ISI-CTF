@@ -1,0 +1,20 @@
+name: fREe
+author: Adel
+category: web
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > just a useless app i made **wi**th my fav **l**anguage python, go get yourself some extra points, it's free :**D**  
+  > [app.py](https://drive.google.com/file/d/1QhSWGHkjyHKkwoZ9vtg5ODxVxX0MpRNV/view?usp=drive_link)
+
+
+  **Author** : Adel
+flags:
+  - ISICTF{3z_r3g3x_3z_p01n75_1337}
+type: static
+value: 200
+connection_info: https://isictf.live:1404
+topics:
+  - Regex
+state: hidden
+version: "0.1"

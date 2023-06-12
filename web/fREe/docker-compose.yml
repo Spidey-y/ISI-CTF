@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    image: fre
+    ports:
+      - 1405:1405
+    environment:
+      - FLAG=ISICTF{3z_r3g3x_3z_p01n75_1337}
+    restart: always

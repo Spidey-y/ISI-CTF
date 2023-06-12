@@ -1,0 +1,8 @@
+version: '3'
+services:
+  web:
+    build: .
+    image: ping2
+    ports:
+      - 1417:1417
+    restart: always

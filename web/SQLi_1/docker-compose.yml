@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    image: sqli1
+    ports:
+      - 1407:1407
+    environment:
+      - FLAG=ISICTF{my_f1r57_sql_1nj3c710n}
+    restart: always

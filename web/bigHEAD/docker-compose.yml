@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    image: bighead
+    ports:
+      - 1401:1401
+    restart: always
