@@ -9,7 +9,7 @@ description: |
   **Author** : Adel
 flags:
   - ISICTF{c0mm4nd_1nj3c710n_1s_4lw4ys_fun}
-type: static
+type: standard
 value: 300
 connection_info: https://isictf.live:1416
 topics:

@@ -10,7 +10,7 @@ description: |
   **Author** : Adel
 flags:
   - ISICTF{y0u_4r3_4_X0R_m4st3r}
-type: static
+type: standard
 value: 400
 state: hidden
 version: "0.1"

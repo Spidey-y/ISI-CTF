@@ -10,7 +10,7 @@ description: |
   **Author** : Adel
 flags:
   - ISICTF{Sqli_1nsp1r3d_by_hfz}
-type: static
+type: standard
 value: 500
 connection_info: https://isictf.live:1412
 topics:

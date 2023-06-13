@@ -8,7 +8,7 @@ description: |
 flags:
   - ISICTF{Y0u_SH0UldnT_me$$_wiTH_r$A_4bdlm40}
 
-type: static
+type: standard
 value: 500
 
 state: hidden

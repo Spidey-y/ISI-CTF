@@ -10,7 +10,7 @@ description: |
   **Author** : Adel
 flags:
   - flag{s0_m4ny_b4s3s}
-type: static
+type: standard
 value: 100
 state: hidden
 version: "0.1"
