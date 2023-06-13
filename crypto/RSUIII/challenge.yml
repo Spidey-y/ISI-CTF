@@ -1,0 +1,15 @@
+name: RSUIIIII
+author: Adel
+category: crypto
+difficulty: medium
+description: |
+  > You really shouldn't mess with RSA, can you recover the flag?  
+  **Author** : Adel
+flags:
+  - ISICTF{Y0u_SH0UldnT_me$$_wiTH_r$A_4bdlm40}
+
+type: static
+value: 500
+
+state: hidden
+version: "0.1"

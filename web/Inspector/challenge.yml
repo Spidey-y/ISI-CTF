@@ -1,0 +1,19 @@
+name: Inpector
+author: Adel
+category: web
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > In my journey to hack NASA using html, i made this epic web site,i used some css to build it and i hid it so good even those crawlers at google can't find it.
+
+  **Author** : Adel
+flags:
+  - ISICTF{d3v_T00L5_4r3_Gr43T}
+type: static
+value: 100
+connection_info: https://isictf.live:1402
+topics:
+  - devtools
+tags:
+state: hidden
+version: "0.1"

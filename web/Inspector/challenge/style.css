@@ -1,0 +1,32 @@
+body {
+  background: linear-gradient(to right, #cedaf2, #b4c9f5);
+  font-family: sans-serif;
+  padding: 50px;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-size: 36px;
+  text-align: center;
+  margin: 20px 0;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+  object-fit: contain;
+  border-radius: 50%;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  /* 2/3 d3v_T00L5 */
+  100% {
+    transform: rotate(360deg);
+  }
+}

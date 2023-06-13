@@ -1,0 +1,16 @@
+name: Bases
+author: Adel
+category: crypto
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > Simple challenge to get you started with crypto.  
+  > `M0RnWk51Y2FSbERnRmNYMU1LOUV5WG5NNHhmSUtNaWg5VVo1N25MUXRLRHRvbWRCdDZKaHE3UmVmVkRJM0ZqN3VHbTJwYkxHQlZFbmsybVVYSkVDem92dXA`  
+
+  **Author** : Adel
+flags:
+  - flag{s0_m4ny_b4s3s}
+type: static
+value: 100
+state: hidden
+version: "0.1"

@@ -1,0 +1,19 @@
+name: SQLi 4
+author: Adel
+category: web
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: ezmed
+description: |
+  > back to auth
+  > [chall.rar](https://drive.google.com/file/d/1s1GLPwQH4m2PaNwEArvriUS-Ugi2ROsR/view?usp=sharing)
+
+  **Author** : Adel
+flags:
+  - ISICTF{Sqli_1nsp1r3d_by_hfz}
+type: static
+value: 500
+connection_info: https://isictf.live:1412
+topics:
+  - sqli
+state: hidden
+version: "0.1"

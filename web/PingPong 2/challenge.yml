@@ -1,0 +1,17 @@
+name: PingPong 2
+author: Adel
+category: web
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > ping any host you want with our service, this time it's not that easy
+
+  **Author** : Adel
+flags:
+  - ISICTF{c0mm4nd_1nj3c710n_1s_4lw4ys_fun}
+type: static
+value: 300
+connection_info: https://isictf.live:1416
+topics:
+state: hidden
+version: "0.1"

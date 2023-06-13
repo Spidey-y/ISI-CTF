@@ -1,0 +1,20 @@
+name: BigHEAD
+author: Adel
+category: web
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > Can you get the flag?
+
+  **Author** : Adel
+flags:
+  - ISICTF{y4y_1_kn0w_H77P_h34d3r5}
+type: static
+value: 100
+connection_info: https://isictf.live:1400
+topics:
+  - HTTP headers
+tags:
+  - HTTP
+state: hidden
+version: "0.1"

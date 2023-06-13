@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Product Search</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <h1>Product Search</h1>
+    <form id="search-form">
+        <input type="text" id="search-input" name="search" placeholder="Search...">
+        <button type="submit">Search</button>
+    </form>
+    <div id="search-results"></div>
+    <script>
+        $(document).ready(function() {
+            // handle form submission using AJAX
+            $('#search-form').submit(function(event) {
+                event.preventDefault();
+                var search_term = $('#search-input').val();
+                $.ajax({
+                    url: '/search',
+                    type: 'POST',
+                    data: {"search": search_term},
+                    success: function(data) {
+                        console.log(data)
+                        var results = data;
+                        var html = '<table><thead><tr><th>Name</th><th>Price</th></tr></thead><tbody>';
+                        for (var i = 0; i < results.length; i++) {
+                            html += '<tr><td>' + results[i][1] + '</td><td>' + results[i][2] + '</td></tr>';
+                        }
+                        html += '</tbody></table>';
+                        $('#search-results').html(html);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

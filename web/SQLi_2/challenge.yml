@@ -1,0 +1,20 @@
+name: SQLi 2
+author: Adel
+category: web
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > my bad, it's fixed now
+  > [chall.rar](https://drive.google.com/file/d/1aOkcW0bJBpwPqdWZInr118aUD_y5pZZS/view?usp=sharing)
+
+
+  **Author** : Adel
+flags:
+  - ISICTF{7w0_f0r_7wo_un10n_b4s3d_1nj3ct10n}
+type: static
+value: 200
+connection_info: https://isictf.live:1408
+topics:
+  - sqli
+state: hidden
+version: "0.1"
