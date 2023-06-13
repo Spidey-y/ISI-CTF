@@ -12,7 +12,7 @@ flags:
   - ISICTF{Sqli_1nsp1r3d_by_hfz}
 type: standard
 value: 500
-connection_info: https://isictf.live:1412
+connection_info: https://challenges.isictf.live:1412
 topics:
   - sqli
 state: hidden

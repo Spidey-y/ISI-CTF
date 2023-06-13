@@ -11,7 +11,7 @@ flags:
   - ISICTF{d3v_T00L5_4r3_Gr43T}
 type: standard
 value: 100
-connection_info: https://isictf.live:1402
+connection_info: https://challenges.isictf.live:1402
 topics:
   - devtools
 tags:

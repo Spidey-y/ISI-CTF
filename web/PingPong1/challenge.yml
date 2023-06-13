@@ -11,7 +11,7 @@ flags:
   - ISICTF{w47ch_0u7_f0r_7h3_c0mm4nd_1nj3c710n}
 type: standard
 value: 100
-connection_info: https://isictf.live:1414
+connection_info: https://challenges.isictf.live:1414
 tags:
   - linux
 state: hidden

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-folders=(web rev misc pwn crypto)
+folders=(web)
 
 for folder in "${folders[@]}"; do
     if [ -d "$folder" ]; then

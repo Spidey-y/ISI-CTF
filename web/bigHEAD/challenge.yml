@@ -11,7 +11,7 @@ flags:
   - ISICTF{y4y_1_kn0w_H77P_h34d3r5}
 type: standard
 value: 100
-connection_info: https://isictf.live:1400
+connection_info: https://challenges.isictf.live:1400
 topics:
   - HTTP headers
 tags:
