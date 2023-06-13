@@ -11,7 +11,7 @@ description: |
   **Author** : Adel
 flags:
   - ISICTF{7w0_f0r_7wo_un10n_b4s3d_1nj3ct10n}
-type: static
+type: standard
 value: 200
 connection_info: https://isictf.live:1408
 topics:

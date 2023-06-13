@@ -10,7 +10,7 @@ description: |
   **Author** : Adel
 flags:
   - ISICTF{YOUARETHEKINGOFTHEHILL}
-type: static
+type: standard
 value: 300
 state: hidden
 version: "0.1"
