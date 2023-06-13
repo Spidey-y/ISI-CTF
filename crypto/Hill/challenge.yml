@@ -1,0 +1,16 @@
+name: Hill
+author: Adel
+category: crypto
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > Another classic cipher!.  
+  > `KCSCCVYGCSBOOVYOTPEIELNSLSGT`  
+
+  **Author** : Adel
+flags:
+  - ISICTF{YOUARETHEKINGOFTHEHILL}
+type: static
+value: 300
+state: hidden
+version: "0.1"

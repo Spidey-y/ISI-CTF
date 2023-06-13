@@ -1,0 +1,16 @@
+name: XOR2
+author: Adel
+category: crypto
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > now let's try something harder, what if we dont have a key?
+  > [chall.py](https://drive.google.com/file/d/11ibIpMtsq8mQI7VUosk8tv83EtNWYlH8/view?usp=sharing)    
+
+  **Author** : Adel
+flags:
+  - ISICTF{X0R_1s_4w3s0m3_3v3n_w1th0ut_4_k3y}
+type: static
+value: 200
+state: hidden
+version: "0.1"

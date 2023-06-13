@@ -1,0 +1,16 @@
+name: XOR3
+author: Adel
+category: crypto
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: ezmed
+description: |
+  > now that you are familiar with XOR, let's try something harder
+  > [chall.py](https://drive.google.com/file/d/1NnYlqJvIA98YDroRZ6-XYpto_GNbO7-4/view?usp=sharing)  
+
+  **Author** : Adel
+flags:
+  - ISICTF{y0u_4r3_4_X0R_m4st3r}
+type: static
+value: 400
+state: hidden
+version: "0.1"

@@ -1,0 +1,16 @@
+name: XOR1
+author: Adel
+category: crypto
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > everyone likes xor do you?
+  > [chall.py](https://drive.google.com/file/d/1Wg009TuwliEj4RrvLCZnQheRhcKpxehB/view?usp=sharing)  
+
+  **Author** : Adel
+flags:
+  - ISICTF{X0R_1s_4w3s0m3}
+type: static
+value: 100
+state: hidden
+version: "0.1"
