@@ -1,0 +1,26 @@
+name: "ret2win"
+author: "Cynex"
+
+category: pwn
+
+
+description: |
+  > This time I won't give it to you, you have to get it by yourself    
+
+  **Author** : Cynex
+
+
+
+value: 300
+type: standard
+
+flags:
+  - flag{Jump_0Ver_funct1ON_THa7$_C0ol}
+
+state: visible
+
+files:
+  - ./chall.c
+  - ./challenge/chall
+
+version: "0.1"

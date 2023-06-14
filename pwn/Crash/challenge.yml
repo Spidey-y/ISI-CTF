@@ -1,0 +1,22 @@
+name: "Crash"
+author: "Cynex"
+
+category: pwn
+
+
+description: |
+  >  Just Crash IT. 
+
+  **Author** : Cynex 
+
+
+value: 100
+type: standard
+
+flags:
+  - flag{4lwAys_EnSUr3_MemOrY_S4F3TY}
+
+state: visible
+files:
+  - ./prog
+version: "0.1"
