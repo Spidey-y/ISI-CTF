@@ -1,0 +1,22 @@
+name: "The matrix"
+author: Adel
+category: misc
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > Welcome to your first programming challenge  
+  > the goal is to determine the index of value 1 inside a given 8x8 matrix  
+  > if you solve 100, i'll give you a flag, but you only have 5 sec for each matrix or you lose  
+  > input format ex: 2d,3e,3b,7h  
+  > good luck :)
+
+  **Author** : Adel
+flags:
+  - ISICTF{my_f1r57_pr0gr4m1ng_ch4ll_y4y}
+type: standard
+tags:
+  - programming
+connection_info: nc -v challenges.isictf.live 1102
+value: 200
+state: hidden
+version: "0.1"
