@@ -1,0 +1,17 @@
+name: PY1
+author: Adel
+category: misc
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: medium
+description: |
+  > python is the best dont you agree?
+  > [chall.py](https://drive.google.com/file/d/1gE4fXGQL_xS0j2M3g7V5xXq_Y5ZXwz0h/view?usp=sharing)
+
+  **Author** : Adel
+flags:
+  - ISICTF{Th0s3_UNIC0D3_C0mplety_Ruin3d_IT_ouxs}
+type: standard
+connection_info: nc -v challenges.isictf.live 1100
+value: 500
+state: hidden
+version: "0.1"

@@ -1,0 +1,22 @@
+version: "3.3"
+
+services:
+  server:
+    build: .
+    ports:
+      - "1100:1337"
+    image: py1
+    environment:
+      - FLAG="ISICTF{Th0s3_UNIC0D3_C0mplety_Ruin3d_IT_ouxs}"
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+      resources:
+        limits:
+          memory: 50M
+    healthcheck:
+      test: socat - TCP4:localhost:1337 || exit 1
+      interval: 60s
+      timeout: 2s
+      retries: 5

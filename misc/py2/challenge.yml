@@ -1,0 +1,17 @@
+name: PY2
+author: Adel
+category: misc
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: medium
+description: |
+  > hmm, that wasnt expected, wanna play a game?
+  > [chall.py](https://drive.google.com/file/d/1aBh9T5S1PEpEWIZ1YhSFOe8Al9l44Gt5/view?usp=sharing)
+
+  **Author** : Adel
+flags:
+  - ISICTF{pyth0n_c4n_b3_r34ly_w31rd_s0m3t1m3s}
+type: standard
+connection_info: nc -v challenges.isictf.live 1101
+value: 500
+state: hidden
+version: "0.1"

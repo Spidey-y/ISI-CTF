@@ -1,0 +1,16 @@
+name: WAV
+author: Adel
+category: misc
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > find me if you can
+  > [sahm_multahib.wav](https://drive.google.com/file/d/19m6jgChkqZgwcTiMbInMR972B96Zp8ga/view?usp=sharing)
+
+  **Author** : Adel
+flags:
+  - ISICTF{Y0u_Found_m3!}
+type: standard
+value: 300
+state: hidden
+version: "0.1"

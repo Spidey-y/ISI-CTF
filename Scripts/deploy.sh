@@ -1,6 +1,6 @@
 #!/bin/bash
 
-folders=(web)
+folders=(web misc)
 
 for folder in "${folders[@]}"; do
     if [ -d "$folder" ]; then
