@@ -1,0 +1,19 @@
+name: "Crash"
+author: "Cynex"
+
+category: pwn
+
+description: |
+  >  Just Crash IT.  
+  > [prog](https://drive.google.com/file/d/1_XFftypRv9-WvVI_W4LTWqcU-gsV2E7L/view?usp=sharing)  
+  **Author** : Cynex
+
+value: 100
+type: standard
+
+flags:
+  - ISICTF{4lwAys_EnSUr3_MemOrY_S4F3TY}
+
+state: hidden
+connection_info: nc -v challenges.isictf.live 1200
+version: "0.1"

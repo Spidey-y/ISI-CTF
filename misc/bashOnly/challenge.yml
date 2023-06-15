@@ -1,0 +1,22 @@
+name: "Bash only"
+author: "cynex"
+
+category: linux
+difficulty: easy
+
+description: |
+  > Yaaay I got a shell!  
+  > Wait there's no ls, no cat, just /bin/bash !!  
+
+  **Connect with** : ssh -p 1104 ctf@challenges.isictf.live 
+  **Password** : ctf  
+
+  **Author** : cynex
+
+value: 500
+type: standard
+
+flags:
+  - ISICTF{sH3ll_built1ns_FTW_chenx3n}
+state: hidden
+version: "0.1"
