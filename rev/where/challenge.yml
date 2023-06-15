@@ -1,0 +1,22 @@
+name: "Where"
+author: "Cynex"
+author_link: "https://github.com/cynex-k"
+
+category: reverse
+difficulty: easy
+
+description: |
+  > I brought a special file this time. flag format:`flag{***}`
+  > [hello](https://drive.google.com/file/d/1U0k4W1h4Uv_nr1s7EnDtI0Ij5Mrreyr1/view?usp=sharing)
+
+  **Author** : Cynex
+
+value: 100
+type: standard
+
+flags:
+  - flag{i7_dOESnT_MatTeR_B1N4ry_or_TexT_F1LE!!}
+
+state: hidden
+
+version: "0.1"

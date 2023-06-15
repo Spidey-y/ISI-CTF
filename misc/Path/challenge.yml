@@ -1,0 +1,23 @@
+name: "PATH"
+author: "Adel"
+
+category: misc
+difficulty: easy
+
+description: |
+  > paths and paths and paths...
+
+  **Connect with** : ssh -p 1105 ctf@challenges.isictf.live 
+  **Password** : ctf  
+
+  **Author** : Adel
+
+value: 400
+type: standard
+
+flags:
+  - ISICTF{R3l47iV3_P4TH_4R3_Dan9eRou$_ouxs}
+tags:
+  - priv-esc
+state: hidden
+version: "0.1"
