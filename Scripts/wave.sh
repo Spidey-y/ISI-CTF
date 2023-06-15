@@ -2,25 +2,16 @@
 
 # List of paths to Docker Compose files for list 1
 compose_paths_2=(
-  "./crypto/int_game/docker-compose.yml"
-  "./misc/ChekkaBot/docker-compose.yml"
-  "./pwn/notes_keeper_II/docker-compose.yml"
-  "./web/Akatsuki/docker-compose.yml"
-  "./web/Magic_links/docker-compose.yml"
-  "./web/token/docker-compose.yml"
-  "./pwn/simple/docker-compose.yml"
-  "./pwn/Auth/docker-compose.yml"
   # Add more paths here
 )
 
 compose_paths_1=(
-  "./rev/Debug/docker-compose.yml"
-  "./web/Bad_PHP/docker-compose.yml"
-  "./web/say_my_name/docker-compose.yml"
-  "./web/SoS/docker-compose.yml"
-  "./pwn/BOF_scanf/docker-compose.yml"
-  "./pwn/weird/docker-compose.yml"
-  "./pwn/ret2win_II/docker-compose.yml"
+  "./web/bigHEAD/docker-compose.yml"
+  "./web/fREe/docker-compose.yml"
+  "./web/Inspector/docker-compose.yml"
+  "./web/PingPong1/docker-compose.yml"
+  "./web/PingPong2/docker-compose.yml"
+  "./misc/matrix/docker-compose.yml"
 )
 
 
