@@ -5,7 +5,7 @@ services:
   service:
     build: .
     ports:
-      - '2223:22'
+      - 1104:22
     image: bashonly
     deploy:
       replicas: 1

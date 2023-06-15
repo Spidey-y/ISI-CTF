@@ -3,24 +3,19 @@ author: "Cynex"
 
 category: pwn
 
-
 description: |
-  > This time I won't give it to you, you have to get it by yourself    
+  > This time I won't give it to you, you have to get it by yourself   
+  > [files](https://drive.google.com/drive/folders/1ui0QZfYkgylLliWO6BBQHfFfXH_4FNQS?usp=sharing)   
 
   **Author** : Cynex
-
-
 
 value: 300
 type: standard
 
 flags:
-  - flag{Jump_0Ver_funct1ON_THa7$_C0ol}
+  - ISICTF{Jump_0Ver_funct1ON_THa7$_C0ol}
 
-state: visible
-
-files:
-  - ./chall.c
-  - ./challenge/chall
+state: hidden
+connection_info: nc -v challenges.isictf.live 1202
 
 version: "0.1"

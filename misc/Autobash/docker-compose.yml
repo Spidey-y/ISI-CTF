@@ -4,7 +4,7 @@ services:
   server:
     build: .
     ports:
-      - "1100:1337"
+      - 1103:1337
     image: jail
     deploy:
       replicas: 1

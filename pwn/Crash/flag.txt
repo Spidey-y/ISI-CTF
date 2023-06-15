@@ -1,1 +1,1 @@
-flag{4lwAys_EnSUr3_MemOrY_S4F3TY}
+ISICTF{4lwAys_EnSUr3_MemOrY_S4F3TY}

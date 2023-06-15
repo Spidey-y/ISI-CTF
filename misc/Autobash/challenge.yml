@@ -3,19 +3,17 @@ author: "Cynex"
 
 category: misc
 
-
 description: |
   > find a way out of this jail!!!!  
   **Author** : Cynex
-
-
 
 value: 400
 type: standard
 
 flags:
-  - flag{Y0u_caN_dO_1nT3Re$71Ng_TH1NG_W1Th_z3R0_ONE_d0LL4r}
+  - ISICTF{Y0u_caN_dO_1nT3Re$71Ng_TH1NG_W1Th_z3R0_ONE_d0LL4r}
 
+connection_info: nc -v challenges.isictf.live 1103
 state: hidden
 
 version: "0.1"
