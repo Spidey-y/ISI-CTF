@@ -1,10 +1,10 @@
-name: BigHEAD
+name: Header Hunter
 author: Adel
 category: web
 # Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
 difficulty: easy
 description: |
-  > Can you get the flag?
+  > Can you hunt the flag?
 
   **Author** : Adel
 flags:

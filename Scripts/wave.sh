@@ -3,6 +3,13 @@
 # List of paths to Docker Compose files for list 1
 compose_paths_2=(
   # Add more paths here
+  "./web/SQLi_1/docker-compose.yml"
+  "./web/SQLi_2/docker-compose.yml"
+  "./web/SQLi_3/docker-compose.yml"
+  "./web/SQLi_4/docker-compose.yml"
+  "./misc/py1/docker-compose.yml"
+  "./misc/py2/docker-compose.yml"
+
 )
 
 compose_paths_1=(
@@ -12,6 +19,11 @@ compose_paths_1=(
   "./web/PingPong1/docker-compose.yml"
   "./web/PingPong2/docker-compose.yml"
   "./misc/matrix/docker-compose.yml"
+  "./misc/Path/docker-compose.yml"
+  "./misc/Autobash/docker-compose.yml"
+  "./pwn/Crash/docker-compose.yml"
+  "./pwn/DeadBeef/docker-compose.yml"
+  "./pwn/ret2win/docker-compose.yml"
 )
 
 
