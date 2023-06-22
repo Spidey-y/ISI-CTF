@@ -1,6 +1,6 @@
 #!/bin/bash
 
-folders=(pwn)
+folders=(web misc pwn)
 
 for folder in "${folders[@]}"; do
     if [ -d "$folder" ]; then

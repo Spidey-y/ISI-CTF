@@ -1,0 +1,15 @@
+name: "Hidden"
+author: Adel
+category: misc
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > another haystack for you to find the needle in  
+
+  **Author** : Adel
+flags:
+  - ISICTF{y0u_f0und_7h3_h1dd3n_fl4g}
+type: standard
+value: 300
+state: hidden
+version: "0.1"

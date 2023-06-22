@@ -1,0 +1,17 @@
+name: "Guess"
+author: Adel
+category: misc
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > guess the flag and it's yours 
+  > good luck :)
+
+  **Author** : Adel
+flags:
+  - ISICTF{71me_4tt4ck_15_4m4z1ng}
+type: standard
+connection_info: nc -v challenges.isictf.live 1107
+value: 400
+state: hidden
+version: "0.1"

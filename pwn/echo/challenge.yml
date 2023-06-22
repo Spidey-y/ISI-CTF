@@ -1,0 +1,25 @@
+name: "echo"
+author: "Cynex"
+
+category: pwn
+
+
+description: |
+  > nothing to give find a way to pwn me    
+  > [echo](https://drive.google.com/drive/folders/184eFVmWCiJAtwjeOOXjH97x22vEhxSWe?usp=sharing)  
+
+  **Author** : Cynex
+
+
+
+value: 400
+type: standard
+
+flags:
+  - ISICTF{i_Hop3_YOu_LE4kEd_3VEryth1nG_T0_roP_mE}
+connection_info: nc -v challenges.isictf.live 1203
+
+state: hidden
+
+
+version: "0.1"

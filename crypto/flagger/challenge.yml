@@ -1,0 +1,18 @@
+name: "flagger"
+author: Adel
+category: crypto
+difficulty: medium
+description: |
+  > only i can see the flag :P  
+
+  **Author** : Adel
+flags:
+  - ISICTF{i_br0k3_y0ur_p4dd1ng_4nd_y0ur_h34rt}
+
+type: standard
+value: 400
+connection_info: nc -v challenges.isictf.live 1300
+files:
+  - challenge/chall.py
+state: hidden
+version: "0.1"

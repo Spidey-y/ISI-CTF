@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L0G1N P4G3</title>
+    <style>
+        input {
+            width: 150px;
+            height: 20px;
+            transition: all 3s;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Another login page</h1>
+    <p>{{ message }}</p>
+    <form method="POST" action="/login">
+        <input type="text" name="username" placeholder="Username">
+        <input type="password" name="password" placeholder="Password">
+        <button>Login</button>
+    </form>
+    <p><a href="/sauce">sauce.</a></p>
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+version: '3'
+services:
+  web:
+    build: .
+    image: phpchall
+    ports:
+      - "1419:80"

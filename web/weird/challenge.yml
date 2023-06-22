@@ -1,0 +1,15 @@
+name: Weird
+author: Adel
+category: web
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > just a simple php app
+  **Author** : Adel
+flags:
+  - ISICTF{php_1s_w31rd_f0r_sur3}
+type: standard
+value: 300
+connection_info: https://challenges.isictf.live:1418/index.php
+state: hidden
+version: "0.1"

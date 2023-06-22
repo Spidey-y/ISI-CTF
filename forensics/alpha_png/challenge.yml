@@ -1,0 +1,23 @@
+name: "alpha_PNG"
+author: "Cynex"
+author_link: "https://github.com/cynex-k"
+
+category: forensics
+difficulty: medium
+
+description: |
+  > My friend redacte my image help me to recover it   
+  > I think he use GIMP software to do this  
+  > [redacted.png](https://drive.google.com/file/d/1Xe01WMjI4D43Ox9IR_JdLw-bZr3XgFvB/view?usp=sharing)  
+
+  **Author** : Cynex
+
+value: 400
+type: standard
+
+flags:
+  - ISICTF{D0n7_Ev3r_Us3_G1mp_7o_rED4C73_iMAG3_17_juST_4dd_4LPH4_CH4Nn3l}
+
+state: hidden
+
+version: "0.1"

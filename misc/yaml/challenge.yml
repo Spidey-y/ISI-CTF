@@ -1,0 +1,17 @@
+name: "YAML"
+author: Adel
+category: misc
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: hard
+description: |
+  > YAML, everyone uses it, no one knows what it is, but that's not the point, here's a fun yml challenge for you   
+
+  **Author** : Adel
+flags:
+  - ISICTF{my_f1r57_RC3_3xpl01t_1s_4w350m3}
+
+type: standard
+connection_info: nc -v challenges.isictf.live 1108
+value: 500
+state: hidden
+version: "0.1"

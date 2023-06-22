@@ -1,0 +1,11 @@
+version: "3.3"
+
+services:
+  server:
+    build: .
+    ports:
+      - "1300:1337"
+    image: flagger
+    environment:
+      - FLAG=ISICTF{i_br0k3_y0ur_p4dd1ng_4nd_y0ur_h34rt}
+    restart: always

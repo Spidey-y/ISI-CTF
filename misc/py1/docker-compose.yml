@@ -7,7 +7,7 @@ services:
       - "1100:1337"
     image: py1
     environment:
-      - FLAG="ISICTF{Th0s3_UNIC0D3_C0mplety_Ruin3d_IT_ouxs}"
+      - FLAG=ISICTF{Th0s3_UNIC0D3_C0mplety_Ruin3d_IT_ouxs}
     deploy:
       replicas: 1
       restart_policy:

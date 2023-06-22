@@ -1,0 +1,22 @@
+name: "LOST"
+author: "Cynex"
+author_link: "https://github.com/cynex-k"
+
+category: forensics
+
+description: |
+  > Oh no! we lost some bytes of this file!!  
+  > Can you still recover it?!  
+  > [flag.broken](https://drive.google.com/file/d/1xF9dJSdbi2eZq_73vw6wis2UhasVb9zZ/view?usp=sharing)  
+
+  **Author** : Cynex
+
+value: 200
+type: standard
+
+flags:
+  - ISICTF{Y0U_r3cOvEr3D_7H3_fILE_4lL_7hAnkS_to_hfz}
+
+state: hidden
+
+version: "0.1"

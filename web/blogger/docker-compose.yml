@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    image: xss
+    ports:
+      - 1423:5000
+    restart: always

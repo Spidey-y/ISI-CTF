@@ -1,0 +1,16 @@
+name: Blogger
+author: Adel
+category: web
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: medium
+description: |
+  > I head the admin is hidding a secret somewhere here, can you find it?  
+
+  **Author** : Adel
+flags:
+  - ISICTF{c0nga7s_y0u_g07_4n_x55_50ld13r}
+type: standard
+value: 500
+connection_info: https://challenges.isictf.live:1422
+state: hidden
+version: "0.1"

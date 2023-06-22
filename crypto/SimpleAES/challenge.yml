@@ -1,0 +1,16 @@
+name: "simple AES"
+author: Adel
+category: crypto
+# Challenge difficulty (easy, ezmed, medium, medhard, hard, extreme)
+difficulty: easy
+description: |
+  > can you spot it?
+  > [chall.py](https://drive.google.com/file/d/1ZhXyBo7ZonKNI8whJambbK86u1TGxOTF/view?usp=sharing)  
+
+  **Author** : Adel
+flags:
+  - ISICTF{Sh0r7_k3ys_4r3_n07_s4f3}
+type: standard
+value: 300
+state: hidden
+version: "0.1"
